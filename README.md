@@ -214,4 +214,4 @@ HamSphere is offered as the full free version, with all features and updates inc
 Join the fun of amateur radio today! **Download HamSphere now and start your journey!**
 
 ---
-**Last updated:** 2026-10-25 17:58:40 UTC
+**Last updated:** 2026-10-25 20:27:03 UTC
